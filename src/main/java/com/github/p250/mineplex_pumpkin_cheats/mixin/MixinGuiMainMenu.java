@@ -1,4 +1,4 @@
-package com.example.mixin;
+package com.github.p250.mineplex_pumpkin_cheats.mixin;
 
 import net.minecraft.client.gui.GuiMainMenu;
 import org.spongepowered.asm.mixin.Mixin;

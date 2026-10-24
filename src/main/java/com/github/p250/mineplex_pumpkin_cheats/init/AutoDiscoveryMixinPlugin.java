@@ -1,4 +1,4 @@
-package com.example.init;
+package com.github.p250.mineplex_pumpkin_cheats.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
